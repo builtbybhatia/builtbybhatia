@@ -4,7 +4,7 @@
 
 I work at the intersection of enterprise transformation, delivery governance, operational readiness, and responsible technology adoption.
 
-Over 22+ years, I have worked across IT infrastructure and operations, cloud and data-centre transformation, complex program delivery, service delivery, and mission-critical environments. My experience includes multi-vendor and international delivery across India, Norway, and the wider Nordic context.
+I have worked across IT infrastructure and operations, cloud and data-centre transformation, complex program delivery, service delivery, and mission-critical environments. My experience includes multi-vendor and international delivery across India, Norway, and the wider Nordic context.
 
 ## What I focus on
 
